@@ -1,0 +1,6 @@
+/attendance_tracker_*/
+/attendance_tracker_*_archive.zip
+/deploy_agent.sh.backup*
+*.swp
+*.swo
+
